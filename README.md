@@ -10,10 +10,10 @@ Conduct analysis to surface insights on property value trends for Melbourne-base
 
 ## Data Cleaning and Exploration
 The data was imported from the following dataset. Excel was used to clean data by removing unnecessary columns, checking for proper value formats, checking for missing values, duplicates, and inconsistencies.
-![Excel Power Query](assets/images/Excel Screenshot)
+![Excel Power Query]("C:\Users\godfe\OneDrive\Documents\Project Portfolio\Melb Real Estate Project\Excel Screenshot.png")
 
 ## Data Visualisation
-![Dashboard](assets/images/Power BI dashboard)
+![Dashboard]("C:\Users\godfe\OneDrive\Documents\Project Portfolio\Melb Real Estate Project\Power BI dashboard.png")
 
 ## Results
 It was identified that suburbs closer to the CBD commanded significantly higher property prices than suburbs further away. Other factors that affect property prices were the amount of rooms and land size, as there was positive correlation between small land size and small rooms leading to higher prices. However, this was likely due to higher prices being closer to the CBD where there is less room for development as filters to suburbs within a region showed little correlation between prices and land size, and room size; suggesting that other factors impacted prices. Furthermore, It seems overall that newer properties demand lower prices than older ones. Certain regions show negative or no correlation. 
