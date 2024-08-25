@@ -7,6 +7,7 @@ Conduct analysis to surface insights on property value trends for Melbourne-base
 ### Tools used:
 
 | Excel    | For data cleaning, exploration                           |
+| ---      |  --- |
 | Power BI | For creating interactive dashboards and visualising data |
 
 ## Data Cleaning and Exploration
