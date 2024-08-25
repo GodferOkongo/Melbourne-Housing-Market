@@ -18,7 +18,7 @@ The data was imported from the following dataset. Excel was used to clean data b
 
 
 ## Data Visualisation
-![Dashboard](assets/images/Power_BI_dashboard.png")
+![Dashboard](assets/images/Power_BI_dashboard.png)
 
 ## Results
 It was identified that suburbs closer to the CBD commanded significantly higher property prices than suburbs further away. Other factors that affect property prices were the amount of rooms and land size, as there was positive correlation between small land size and small rooms leading to higher prices. However, this was likely due to higher prices being closer to the CBD where there is less room for development as filters to suburbs within a region showed little correlation between prices and land size, and room size; suggesting that other factors impacted prices. Furthermore, It seems overall that newer properties demand lower prices than older ones. Certain regions show negative or no correlation. 
