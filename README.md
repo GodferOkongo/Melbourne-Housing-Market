@@ -5,8 +5,9 @@
 Conduct analysis to surface insights on property value trends for Melbourne-based real estate dataset containing over 8000 records. Excel was used to clean and analyse data before using Power BI to create a performance dashboard to visualise trends related to property price, regional differences and key factors that affect it. Insights and recommendations geared towards potential property investors and developers to make informed decisions.  
 
 ### Tools used:
-|Excel   | For data cleaning, exploration                          |
-|Power BI| For creating interactive dashboards and visualising data|
+
+| Excel    | For data cleaning, exploration                           |
+| Power BI | For creating interactive dashboards and visualising data |
 
 ## Data Cleaning and Exploration
 The data was imported from the following dataset. Excel was used to clean data by removing unnecessary columns, checking for proper value formats, checking for missing values, duplicates, and inconsistencies.
