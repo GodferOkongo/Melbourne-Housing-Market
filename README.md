@@ -11,7 +11,11 @@ Conduct analysis to surface insights on property value trends for Melbourne-base
 
 ## Data Cleaning and Exploration
 The data was imported from the following dataset. Excel was used to clean data by removing unnecessary columns, checking for proper value formats, checking for missing values, duplicates, and inconsistencies.
+
+
 ![Excel Power Query](assets/images/Excel Screenshot.png)
+
+
 
 ## Data Visualisation
 ![Dashboard]("C:\Users\godfe\OneDrive\Documents\Project Portfolio\Melb Real Estate Project\Power BI dashboard.png")
